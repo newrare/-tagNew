@@ -5,7 +5,7 @@ This is an automatic game card concept.
 
 ## Prerequisites
 
--   [PHP 7.x](https://www.php.net/manual/en/install.php)
+-   [PHP 7.x or more](https://www.php.net/manual/en/install.php)
 -   [Composer 2.x](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos)
 
 
