@@ -6,6 +6,7 @@ This is an automatic game card concept.
 ## Prerequisites
 
 -   [PHP 7.x](https://www.php.net/manual/en/install.php)
+-   [Composer 2.x](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos)
 
 
 ## Install
@@ -16,6 +17,9 @@ git clone git@github.com:newrare/card.git card
 
 # Open project
 cd card
+
+# Install lib
+composer install
 
 # Start local serveur
 php -S localhost:8000 -t public/
