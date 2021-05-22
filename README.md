@@ -44,7 +44,9 @@ Reload this page for simulate a new game.
 ## Todo
 
 The players have a level of children. They will always play their strongest card. This point should be improved.
+
 Add logger method and test method call result and debug.
+
 Add Tests
 
 ## Licence
